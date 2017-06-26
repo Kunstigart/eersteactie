@@ -22,8 +22,10 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 17,
-    "versionPublish": "3.12.1"
+    "uniqCompNum": 22,
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "eersteactie.html": {
@@ -307,6 +309,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#2b0680"
+            },
+            "P": {
+              "color": "#2b0680"
+            }
+          },
           "_anchor": "msg-box5-a",
           "_params": {
             "imageSize": 50,
@@ -353,15 +363,7 @@
           },
           "title": "Door zelf te ervaren hoe het is om bij <br>Atelier Kunstig &nbsp;Art<br>&nbsp;te schilderen",
           "text": "maar voor je zover bent wil je misschien eerst meer weten over intuïtief schilderen en wat dat voor jou kan betekenen. <br><br>Speciaal voor jou is er een gratis e-boek gemaakt <br>\"8 redenen waarom &nbsp;intuïtief schilderen goed is voor jou.\" <br>Straks kom je de informatie tegen hoe je het kunt downloaden. <br><br>Intuïtief schilderen is heel bijzonder en is de chore business van Atelier Kunstig Art. Ondanks dat zijn er ook mensen die het heerlijk vinden om hun favoriete plaatje na te schilderen. Dat kan ook. Dat zie je hiernaast. Het gaat vooral om dat jij je creatief kan uiten en geniet van wat je aan het maken bent. Jij zal het toch maken met jouw kleuren en op jouw manier. &nbsp;&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#2b0680"
-            },
-            "P": {
-              "color": "#2b0680"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
@@ -391,13 +393,6 @@
             "Theme"
           ],
           "_name": "content2",
-          "_anchor": "content2-c",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<br><ol><li>Je hebt een eigen plek, waar alles staat wat je nodig hebt - kwasten, penselen, rollers, spatels en vaatdoekje. Je linnendoek staat op jouw ezel te wachten op jou bij binnenkomst.</li><li>Dus geen gesjouw met materiaal, zelfs bijzonder materiaal is aanwezig wat je mag gebruiken op je schilderij.</li><li>Je schildert in gezelschap en dat is heel leerzaam.</li><li>Je schildert in je eigen tempo.&nbsp;</li><li>Niets wordt klassikaal gedaan, ook niet na bespreken van je werk.</li><li>Je hebt geen teken- en/of schilderervaring nodig.</li><li>Intuïtief schilderen is een methode die iedereen kan.</li><li>Wil jij jouw favoriete plaatje na schilderen dan mag dat.</li><li>Het is ook nog eens gezellig om met gelijkgestemde en anders denkende mensen om te gaan.</li><li>Je koopt een 9 strippenkaart die een heel jaar geldig is.</li><li>Je hoeft niet elke week te komen, jij bepaalt hoe frequent je komt.</li><li>Je kunt kiezen uit 5 dagdelen om te komen schilderen.</li><li>Vooraf een plek reserveren op jouw gewenste dagdeel</li><li>Persoonlijke begeleiding door Sylvia te Braake.</li><li>Op een speelse manier leren schilderen.</li><li>Vooral veel plezier hebben tijdens je eigen schilderproces.</li></ol><p><br></p>",
           "_styles": {
             "BLOCKQUOTE": {
               "color": "#2b0680"
@@ -405,7 +400,14 @@
             "LI": {
               "color": "#2b0680"
             }
-          }
+          },
+          "_anchor": "content2-c",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<br><ol><li>Je hebt een eigen plek, waar alles staat wat je nodig hebt - kwasten, penselen, rollers, spatels en vaatdoekje. Je linnendoek staat op jouw ezel te wachten op jou bij binnenkomst.</li><li>Dus geen gesjouw met materiaal, zelfs bijzonder materiaal is aanwezig wat je mag gebruiken op je schilderij.</li><li>Je schildert in gezelschap en dat is heel leerzaam.</li><li>Je schildert in je eigen tempo.&nbsp;</li><li>Niets wordt klassikaal gedaan, ook niet na bespreken van je werk.</li><li>Je hebt geen teken- en/of schilderervaring nodig.</li><li>Intuïtief schilderen is een methode die iedereen kan.</li><li>Wil jij jouw favoriete plaatje na schilderen dan mag dat.</li><li>Het is ook nog eens gezellig om met gelijkgestemde en anders denkende mensen om te gaan.</li><li>Je koopt een 9 strippenkaart die een heel jaar geldig is.</li><li>Je hoeft niet elke week te komen, jij bepaalt hoe frequent je komt.</li><li>Je kunt kiezen uit 5 dagdelen om te komen schilderen.</li><li>Vooraf een plek reserveren op jouw gewenste dagdeel</li><li>Persoonlijke begeleiding door Sylvia te Braake.</li><li>Op een speelse manier leren schilderen.</li><li>Vooral veel plezier hebben tijdens je eigen schilderproces.</li></ol><p><br></p>"
         },
         {
           "_styles": {
@@ -435,18 +437,62 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#2b0680"
+            }
+          },
           "_anchor": "content1-e",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Sommige mensen vinden het moeilijk om te vatten wat intuïtief schilderen precies is. Dat is echt niet raar, want het is bijna niet uit te leggen. Dit is iets wat je zelf \"moet\" ervaren. Vandaar dat Sylvia te Braake een aantal belangrijke aspecten heeft opgeschreven en zo goed mogelijk geprobeerd de processen te beschreven. Natuurlijk kan het voor iedereen een ander proces zijn, maar dit is wel een goed leidraad.&nbsp;</p><p><br></p><p>Vul hieronder je gegevens in, dan ontvang je een e-mail met een link naar de e-boek.</p>",
+          "text": "<p>Sommige mensen vinden het moeilijk om te vatten wat intuïtief schilderen precies is. Dat is echt niet raar, want het is bijna niet uit te leggen. Dit is iets wat je zelf \"moet\" ervaren. Vandaar dat Sylvia te Braake een aantal belangrijke aspecten heeft opgeschreven en zo goed mogelijk geprobeerd de processen te beschreven. Natuurlijk kan het voor iedereen een ander proces zijn, maar dit is wel een goed leidraad.&nbsp;</p><p><br></p><p>Vul hieronder je gegevens in, dan ontvang je een e-mail met een link naar de e-boek.</p>"
+        },
+        {
           "_styles": {
-            "P": {
-              "color": "#2b0680"
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
             }
-          }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-j",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "SUBSCRIBE FORM",
+          "subtitle": "Subscribe to our Newsletter",
+          "form": {
+            "action": "sylviatebraake@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
         }
       ]
     }
